@@ -44,6 +44,4 @@ printf("vamsi")
 😇 :innocent:	👽 :alien:	💛 :yellow_heart:
 💙 :blue_heart:	💜 :purple_heart:	❤️ :heart:
 💚 :green_heart:	💔 :broken_heart:	💓 :heartbeat:
-💗 :heartpulse:
-😚 :kissing_closed_eyes:	😳 :flushed:	😌 :relieved:
-😆 :satisfied:
+💗 :heartpulse
