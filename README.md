@@ -25,9 +25,13 @@
 **CODE**
 
 #include<stdio.h>
+
 void main()
+
 {
+
 printf("vamsi")
+
 }
 
 ~~VAMSI MAYANK~~
