@@ -19,9 +19,7 @@
 
 ## **Table**
 |Name|Branch|College|CGPA|
-
 |----|------|-------|----|
-
 |Vamsimayank|CSE|VRSEC|9.5|
 
 **CODE**
