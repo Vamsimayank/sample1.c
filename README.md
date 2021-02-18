@@ -32,6 +32,11 @@ printf("vamsi")
 
 :bowtie: :bowtie:	😄 :smile:	😆 :laughing:
 😊 :blush:	😃 :smiley:	☺️ :relaxed:
-😏 :smirk:	😍 :heart_eyes:	😘 :kissing_heart:
+😏 :smirk:	😍 :heart_eyes:	😘 :kissing_heart: :sunglasses:	😵 :dizzy_face:	👿 :imp:
+😈 :smiling_imp:	😐 :neutral_face:	😶 :no_mouth:
+😇 :innocent:	👽 :alien:	💛 :yellow_heart:
+💙 :blue_heart:	💜 :purple_heart:	❤️ :heart:
+💚 :green_heart:	💔 :broken_heart:	💓 :heartbeat:
+💗 :heartpulse:
 😚 :kissing_closed_eyes:	😳 :flushed:	😌 :relieved:
 😆 :satisfied:
