@@ -4,7 +4,7 @@
     topic name
     **bold**
    # *italic*
-  #***bold italic***https://graphicriver.img.customer.envatousercontent.com/files/264451940/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=4942dccce0b79f382bd89ee321d200a0
+  #***bold italic***
    #*vamsi*
   #
   **vamsi**
