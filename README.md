@@ -3,4 +3,6 @@
   add file
     topic name
     **bold**
-    
+   # *italic*
+  #***bold italic***
+   
